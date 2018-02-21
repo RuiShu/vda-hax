@@ -23,3 +23,5 @@ Run code
 ```bash
 python run_classifier.py
 ```
+
+![](assets/tensorboard_viz.png)
