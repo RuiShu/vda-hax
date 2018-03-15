@@ -1,6 +1,6 @@
 # vda-hax
 
-Simple tricks to improve visual domain adaptation for MNIST -> SVHN
+Simple tricks to improve visual domain adaptation for MNIST -> SVHN. For more advanced tricks, check out [DIRT-T](https://github.com/RuiShu/dirt-t)
 
 A typical implementation of convnets trained on MNIST and tested in SVHN usually yields ~20% accuracy. That being said, it's pretty easy to get to ~40% accuracy on MNIST-> SVHN by applying the following tricks:
 
